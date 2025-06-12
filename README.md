@@ -1,7 +1,7 @@
 # My Learnings in AI/ML
 
 
-A repository of notebooks and python experiences based off of my progress and cumulative projects of an online AI & Machine Learning Bootcamp. I wanted to elaborate on the theoretical concepts through real-world projects and applied intelligence that revolve around, data analysis.
+A repository of notebooks and python experiences based off of my progress and cumulative projects of an online AI & Machine Learning Bootcamp. I want to elaborate on the theoretical concepts through real-world projects and applied intelligence that revolve around, data analysis.
 
 
 ## Projects in Data & AI
